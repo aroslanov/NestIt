@@ -6,10 +6,11 @@ Simple one-button Adobe After Effects Script UI Panel that precomps all instance
 2. It replaces all footage instances with this new precomp
 
 ## Installation instructions:
-1. Use After Effects menu: File > Scripts > Install ScriptUI Panel
-2. Restart After Effects
-3. Find NestIt.jsx in Window menu
-4. Panel should appear.
+1. Download NestIt.jsx
+2. Use After Effects menu: File > Scripts > Install ScriptUI Panel
+3. Restart After Effects
+4. Find NestIt.jsx in Window menu
+5. Panel should appear.
 
 ## Usage:
 1. Select footage item
